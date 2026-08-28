@@ -1,4 +1,4 @@
-### 👋 Hey, I'm Elaman
+### 👋 Ayo, I'm Elaman
 
 **Software Engineering student** · C++ · Python · Backend & Systems
 
