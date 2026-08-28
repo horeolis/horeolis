@@ -17,7 +17,6 @@
 - Land my first internship
 
 📫 **Reach me:**
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](@bshmbaev)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bshmbaev@gmail.com)
 
 ---
