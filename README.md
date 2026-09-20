@@ -29,8 +29,8 @@
 * Land my first internship
 
 ### 🛠 Tech Stack:
-* **Languages:** C++, C#, Python
-* **Backend:** Django REST Framework, MS SQL Server, PostgreSQL, Redis
+* **Languages:** C++, Python
+* **Backend:** Django REST Framework, PostgreSQL, Redis
 * **Tools & OS:** Arch Linux, CachyOS, i3wm, Niri, Git, Docker, Windows Forms
 
 ---
